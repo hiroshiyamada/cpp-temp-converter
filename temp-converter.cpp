@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 void convertCelsiusToFahrenheit() {
     std::cout << "Enter the temperature in Celsius: ";
